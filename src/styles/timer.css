@@ -1,0 +1,54 @@
+body {
+    background-color: #333;
+    font-size: 20px;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 500px;
+    margin: 130px auto;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 5px yellowgreen;
+}
+
+.btn {
+    font-family: arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 10px;
+    padding: 0;
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid #333;
+    background-color: rgb(25, 212, 81);
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.shower {
+    width: 128px;
+    height: 48px;
+    font-size: 13px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.timer {
+    margin: 10px;
+    height: 50px;
+    line-height: 50px;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid #333;
+    background-color: rgb(230, 78, 8);
+}
+
+
+
